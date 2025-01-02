@@ -7,3 +7,14 @@ Planning failed. Terraform encountered an error while generating this plan.
 │   with provider["registry.terraform.io/hashicorp/google"],
 │   on main.tf line 67, in provider "google":
 │   67: provider "google" {
+
+error2:
+╷
+│ Error: Error loading zone 'us-central1-a': Get "https://compute.googleapis.com/compute/v1/projects/carbide-acre-446215-b0/zones/us-central1-a?alt=json&prettyPrint=false": oauth2: cannot fetch token: 400 Bad Request
+│ Response: {"error":"invalid_grant","error_description":"Invalid JWT Signature."}
+│ 
+│   with google_compute_instance.example,
+│   on main.tf line 82, in resource "google_compute_instance" "example":
+│   82: resource "google_compute_instance" "example" {
+│ 
+╵

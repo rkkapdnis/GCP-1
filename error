@@ -1,0 +1,9 @@
+gcloud auth application-default login
+Planning failed. Terraform encountered an error while generating this plan.
+
+╷
+│ Error: Attempted to load application default credentials since neither `credentials` nor `access_token` was set in the provider block.  No credentials loaded. To use your gcloud credentials, run 'gcloud auth application-default login'.  Original error: google: error getting credentials using GOOGLE_APPLICATION_CREDENTIALS environment variable: open /path/to/your/service-account-file.json: no such file or directory
+│ 
+│   with provider["registry.terraform.io/hashicorp/google"],
+│   on main.tf line 67, in provider "google":
+│   67: provider "google" {

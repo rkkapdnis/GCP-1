@@ -1,3 +1,8 @@
+Project name : My First Project
+Project number : 787637613184
+Project ID : carbide-acre-446215-b0
+
+#jsonkey
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/service-account-file.json"
 
 # main.tf

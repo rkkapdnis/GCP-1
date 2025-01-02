@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carbide-acre-446215-b0",
+  "private_key_id": "20b11f24c87b372aaf3aaf5927ab8e6630818fbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsl7siAeltCB4w\nyDbAHBGtfgSP53jC96B6eUkMEdRmknJxZZZXkq1VSSZf1NKFJe4YFPNpjOLxW82Z\nOLOSVtvjuz+hgqAjSPoI8OrXe/51TaYZmDzgLzK0Q6XbuSPdnSQuqnZyl2wSYDKd\nY7XHX0d4GJ5ee18mDSFRl0nXHPs5z3XuFB5fsUh6wgBr7MzSoFoIFd/dHV9ONy2G\n49tJOCUgrpYFIjj7gJTPRSRNNJJIUaGUkZXgIbUc0xIMBOpGhybbYRiVTLa1Dmp7\nR9edAcc+fvp2R+D9xB778LHDYsObaxdFXCm1cnK6kO3R3Ey260QZZeUv9ONxD4+7\noKM5FajJAgMBAAECggEAAzgvWvKLLqf8nC9X6hx77e8QWbjZJVXmLfKuPKXmfuVT\nci8Rb1/CkPk02IvJQ4eSGevmIH1qzFLIkoeeveeV4XkgNjyQDShy1ZDc6JkdBYYl\nx4tx80KeIQO0B9W7yAoC30X5wKh3cR5PQ2VVQjtSQ3i+F4gYncaX7QQz8enN++WN\nbqJyrSACc7MXRLYmZk0DK+/dv1YsHDX7HIXucDxp03KIv+XuPl/Vn+shI57a7Pw4\nFJIb5FdpO4dC06ezujf77I7EGYB0V91p4OotZseP5hzheacYswiz5+k0CLtc/Obx\nmJyWzrnmzgK7MXNnOYhKXctMk0wS6J1tVcwKE7N3AQKBgQDm9Hx8ee8vdPXX/fOj\nR8vxXwnVstZfkSIic/6hex4AkYxGA2j3kHQHBD/HlWr4oT4a73ry5PsBdROrRPI1\nkjKFFLAZj3rjC3WTRzVK0ngpogJJ3PE+qwH8p0N+gnl5nRDSNov+F7NQ9HC05wcA\n47/1F0xuJRlgU7KsizH8rGp0wQKBgQC/Tw4yRK9xxHQb6BMa/7J9nJRTNKjoagiE\nHDR+j2pv+YrD7XpnXJVmylbqA+h6YTVvp3T7d0Qbo3THOiLa1USVGShuDpp4m7jv\nAc2Wvzy52DbVjWMf8KvzFe+yy8UD/v7CYFagZjXBJqeqe4Nhnd813JS6c4eaAVYy\nZx0c6zUOCQKBgC6IC5y4pGwXUIDX9YJsMLbMwxp/EZnnj80JOcAnIgBTUsO4ZCmc\nvQO842y+ufKl6fFbVpYhdEDy6aeUGIiaj/soE+LSeZvM7z9hFWehx/v7XCKtlR1f\nLuNMf9i5SOgrsPvpaYMkG0iwNxT7hvmy6TXkH84BQ3+Y3WLOGKAjzL8BAoGAAu8G\na7Tr79WwZiEn8dkL9qspByGemXnOyZ/ZGju+yRrNivWgU+dyjxH5RTtsHDxTYnPx\n8k1A6R+XkdqNYEe29oZdPVrR+ZmBu4COk4o5NyxeouW5KGs7Z83lUBuZ2NbXN0nc\n6jbHCkA6f/3G5P9TxfKtATL2WGE+3iUAqEnfFWkCgYEAw6toV4CkFUED1RQ8aSWl\n/nKerQd+bN8MakIZKKzD8//4pGjUNd0lfr65awDhfdgM++hdcJk/HVFffXI1BfF5\njBK6ruxLgIb2b5oZ2Hh7Nuaxuipc+VR6r4zhCZFnZqGPVL4t/AQBT/5PPVRNqIvT\nOLTvdcb6vgrLUstM1qjxba8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-file1@carbide-acre-446215-b0.iam.gserviceaccount.com",
+  "client_id": "100395047688673332122",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-file1%40carbide-acre-446215-b0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
